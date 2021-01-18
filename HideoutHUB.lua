@@ -1,5 +1,4 @@
------- THIS WAS LORIS#9999 AND THE ONE WHO GAVE DARK HUB SOURCE TO EHUB
-if game.CoreGui:FindFirstChild("FUCK DARK HUB") then
+if game.CoreGui:FindFirstChild("FUCK DARKDARKDARK HUB") then
     game.CoreGui.DarkHubLib:Destroy()
 end
 game:GetService("UserInputService").InputBegan:connect(
@@ -174,7 +173,7 @@ function DarkLib:Window()
 	Title.Position = UDim2.new(0.42778793, 0, 0.041837737, 0)
 	Title.Size = UDim2.new(0, 78, 0, 30)
 	Title.Font = Enum.Font.Gotham
-	Title.Text = "FUCK DARK HUB E HUB ON TOP AND THIS WAS LORIS#9999 AND THE ONE WHO GAVE DARK HUB SOURCE TO EHUB"
+	Title.Text = "HideoutHUB"
 	Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Title.TextSize = 20.000
 
